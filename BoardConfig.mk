@@ -20,7 +20,7 @@ TARGET_USES_FOD_ZPOS := true
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/configs/hidl/manifest.xml
 
 # Kernel
-TARGET_KERNEL_CONFIG := toco_defconfig
+TARGET_KERNEL_CONFIG := tucana_defconfig
 
 # Partitions
 BOARD_FLASH_BLOCK_SIZE := 262144
