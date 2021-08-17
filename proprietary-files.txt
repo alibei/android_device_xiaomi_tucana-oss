@@ -396,7 +396,6 @@ vendor/etc/elliptic_sensor.xml
 vendor/lib64/libultrasound.so
 vendor/lib64/libnotifyaudiohal.so
 vendor/lib64/sensors.elliptic.so
-vendor/lib64/sensors.mius.proximity.so
 
 # Thermal
 vendor/bin/mi_thermald
