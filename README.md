@@ -1,3 +1,11 @@
+This tree is not stable. It does crash often in suspend while the phone is in your pocket.
+You will find the log with the error in the file console-ramoops-0.
+I also had a different log with a kernel panic which I cannot access anymore. It had a issue with the irq for fts.
+
+
+
+
+
 Device configuration for Xiaomi Mi CC9 Pro/Note 10
 ============================================
 
